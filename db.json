@@ -1,1 +1,14 @@
-
+{
+  "users": [
+    {"id": 1,"name": "Anirudh Panda","story": "Hustler"},
+    {"id": 2,"name": "Somnath Panigrahi","story": "Clumsy"},
+    {"id": 3,"name": "Tusar Nayak","story": "Thanos"},
+    {"id": 4,"name": "Karthik Kumar","story": "Omnivert"},
+    {"id": 5,"name": "Satyam Das","story": "Entreprenuer"},
+    {"id": 6,"name": "Anurag Paikray","story": "Amiable"},
+    {"id": 7,"name": "Raj Padhi","story": "Traveller"},
+    {"id": 8,"name": "Kali Prasad Sahu","story": "Daring"},
+    {"id": 9,"name": "Aditya Sahu","story": "Friendly"},
+    {"id": 10,"name": "Harsh Jain","story": "Studious"}
+    ]
+}
