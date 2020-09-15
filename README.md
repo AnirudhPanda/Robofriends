@@ -1,5 +1,5 @@
 
-## Link: [Robofriends](anirudhpanda.github.io/robofriends/)
+## Link: [Robofriends](https://anirudhpanda.github.io/Robofriends/)
 
 In the project directory, you can run:
 
